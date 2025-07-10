@@ -81,6 +81,12 @@
 - Windows: `install.bat`
 - macOS/Linux: `install.sh`
 
+- ### 快速打包
+运行项目根目录下的build_exe.py：
+ ```
+python build_exe.py
+ ```
+
 ## 📖 使用指南
 
 ### 基本操作
