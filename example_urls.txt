@@ -1,0 +1,16 @@
+# 视频下载器批量下载示例文件
+# 每行一个URL，支持 # 开头的注释行
+# 支持YouTube、Twitter/X、Bilibili等多平台
+
+# YouTube视频
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Bilibili视频
+https://www.bilibili.com/video/BV1GJ411x7h7
+
+# Twitter/X视频
+https://twitter.com/Twitter/status/1560718006190039040
+
+# 更多平台示例
+# https://www.instagram.com/p/CdGIXYCOmZu/
+# https://www.tiktok.com/@tiktok/video/7106594312292453675

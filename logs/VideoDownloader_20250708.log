@@ -1,0 +1,519 @@
+2025-07-08 14:49:40,898 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 14:49:40,898 - VideoDownloader - INFO - ==================================================
+2025-07-08 14:49:40,898 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 14:49:40,898 - VideoDownloader - INFO - ==================================================
+2025-07-08 14:49:40,898 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 14:49:40,899 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 14:49:40,902 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 14:49:40,934 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 14:49:46,995 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 14:49:46,996 - VideoDownloader - INFO - 检测到B站链接，使用单一mp4格式
+2025-07-08 14:49:46,996 - VideoDownloader - INFO - 开始下载: download_1751957386995
+2025-07-08 14:49:47,120 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 14:49:47,120 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 14:49:47,120 - VideoDownloader - INFO - 使用格式选择器: best[ext=mp4]/worst[ext=mp4]/best
+2025-07-08 14:49:47,924 - VideoDownloader - WARNING - 无法获取格式信息: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 14:49:48,451 - VideoDownloader - ERROR - 下载过程中出错: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 14:49:48,452 - VideoDownloader - ERROR - 下载失败: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 14:49:53,929 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:14:22,638 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 15:14:22,663 - VideoDownloader - WARNING - ffmpeg未安装或不在PATH中，将使用兼容模式
+2025-07-08 15:14:22,673 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:14:35,950 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 15:16:43,803 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 15:16:43,803 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:16:43,803 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 15:16:43,803 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:16:43,803 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 15:16:43,804 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:16:43,804 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 15:16:43,830 - VideoDownloader - WARNING - ffmpeg未安装或不在PATH中，将使用兼容模式
+2025-07-08 15:16:43,839 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:16:47,318 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 15:44:49,801 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:44:49,802 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 15:44:49,842 - VideoDownloader - INFO - 检测到python-ffmpeg包，支持高质量视频合并
+2025-07-08 15:44:49,861 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:44:57,545 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:44:57,545 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 15:44:57,546 - VideoDownloader - INFO - 开始下载: download_1751960697545
+2025-07-08 15:44:57,700 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 15:44:57,700 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:44:57,701 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 15:44:58,491 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 15:44:59,116 - VideoDownloader - ERROR - 下载过程中出错: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-07-08 15:44:59,117 - VideoDownloader - ERROR - 下载失败: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-07-08 15:45:09,479 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 15:54:54,610 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - ==================================================
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:54:54,611 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 15:54:54,642 - VideoDownloader - INFO - 系统ffmpeg未安装或不在PATH中
+2025-07-08 15:54:54,651 - VideoDownloader - WARNING - 检测到python-ffmpeg包，但yt-dlp需要系统级ffmpeg二进制文件
+2025-07-08 15:54:54,651 - VideoDownloader - INFO - 建议安装: pip install ffmpeg-python 或下载ffmpeg二进制文件
+2025-07-08 15:54:54,651 - VideoDownloader - WARNING - ffmpeg不可用，将使用兼容模式
+2025-07-08 15:54:54,713 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 15:55:05,693 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 16:40:09,945 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 16:40:09,945 - VideoDownloader - INFO - ==================================================
+2025-07-08 16:40:09,945 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 16:40:09,946 - VideoDownloader - INFO - ==================================================
+2025-07-08 16:40:09,946 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 16:40:09,946 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 16:40:09,946 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 16:40:10,069 - VideoDownloader - INFO - 系统ffmpeg未安装或不在PATH中
+2025-07-08 16:40:10,077 - VideoDownloader - WARNING - 检测到python-ffmpeg包，但yt-dlp需要系统级ffmpeg二进制文件
+2025-07-08 16:40:10,077 - VideoDownloader - INFO - 建议安装: pip install ffmpeg-python 或下载ffmpeg二进制文件
+2025-07-08 16:40:10,077 - VideoDownloader - WARNING - ffmpeg不可用，将使用兼容模式
+2025-07-08 16:40:10,110 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 16:40:15,528 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:14:41,516 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:14:41,517 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:14:41,721 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:14:41,760 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:14:50,449 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:14:50,449 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:14:50,450 - VideoDownloader - INFO - 开始下载: download_1751969690449
+2025-07-08 18:14:52,554 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:14:52,555 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:14:52,555 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:14:53,546 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:15:07,959 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:15:10,334 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:15:10,930 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 18:15:10,931 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 18:16:53,007 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:23:19,645 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:23:19,745 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:23:19,811 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:23:38,788 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:23:38,789 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:23:38,789 - VideoDownloader - INFO - 开始下载: download_1751970218788
+2025-07-08 18:23:38,937 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:23:38,937 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:23:38,938 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:23:39,695 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:23:40,370 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 18:23:40,371 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 18:24:17,156 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:24:17,157 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:24:17,157 - VideoDownloader - INFO - 开始下载: download_1751970257157
+2025-07-08 18:24:17,201 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:24:17,201 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:24:17,201 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:24:17,943 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:24:25,428 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:24:26,324 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:24:26,887 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 18:24:26,887 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 18:24:36,281 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:30:12,719 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:30:12,719 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:30:12,719 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:30:12,719 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:30:12,719 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:30:12,720 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:30:12,720 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:30:12,817 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:30:12,886 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:32:20,105 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:32:20,105 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:32:20,106 - VideoDownloader - INFO - 开始下载: download_1751970740105
+2025-07-08 18:32:20,238 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:32:20,238 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:32:20,238 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:32:20,897 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:32:27,306 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:32:28,861 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:32:29,269 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 18:32:29,270 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\1..mp4
+2025-07-08 18:32:29,270 - VideoDownloader - INFO - 文件已保存到指定目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:32:45,889 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:34:52,962 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:34:52,962 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:34:52,963 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:34:52,963 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:34:52,963 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:34:52,963 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:34:52,963 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:34:53,026 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:34:53,090 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:35:16,122 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:35:16,123 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:35:16,123 - VideoDownloader - INFO - 开始下载: download_1751970916123
+2025-07-08 18:35:16,252 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:35:16,252 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:35:16,252 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:35:16,906 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:35:21,204 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:35:23,933 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:35:24,416 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 18:35:24,416 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\1#\1..mp4
+2025-07-08 18:35:24,416 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\1#
+2025-07-08 18:35:33,738 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:35:33,739 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:35:33,739 - VideoDownloader - INFO - 开始下载: download_1751970933738
+2025-07-08 18:35:33,780 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:35:33,780 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:35:33,780 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:35:34,524 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:35:49,788 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:35:52,390 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:35:53,078 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 18:35:53,079 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\MC_2.0\MC_2.0.mp4
+2025-07-08 18:35:53,079 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\MC_2.0
+2025-07-08 18:35:59,581 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:38:42,513 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:38:42,513 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:38:42,513 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:38:42,514 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:38:42,514 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:38:42,514 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:38:42,514 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:38:42,591 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:38:42,667 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:38:50,766 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:38:50,766 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:38:50,767 - VideoDownloader - INFO - 开始下载: download_1751971130766
+2025-07-08 18:38:51,018 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:38:51,018 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:38:51,018 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:38:51,749 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:39:00,741 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:39:01,510 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:39:02,006 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 18:39:02,006 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 18:39:02,006 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 18:40:29,826 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:45:25,740 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:45:25,741 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:45:25,821 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:45:25,880 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:45:49,312 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:45:49,312 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 18:45:49,313 - VideoDownloader - INFO - 开始下载: download_1751971549312
+2025-07-08 18:45:49,447 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 18:45:49,447 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:45:49,447 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 18:45:50,112 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 18:45:54,560 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:45:55,743 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 18:45:56,135 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 18:45:56,135 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 18:45:56,136 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 18:55:34,655 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - ==================================================
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:59:04,642 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 18:59:04,730 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 18:59:04,802 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 18:59:11,833 - VideoDownloader - ERROR - 更新视频信息显示失败: Unknown format code 'd' for object of type 'float'
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:02:57,321 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:02:57,434 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:02:57,511 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:03:26,301 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:04:09,410 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:04:09,494 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:04:09,558 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:04:26,175 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:05:45,006 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:05:45,006 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:05:45,006 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:05:45,007 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:05:45,007 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:05:45,007 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:05:45,007 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:05:45,079 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:05:45,146 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:06:03,397 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:06:15,761 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:06:15,762 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:06:15,844 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:06:15,906 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:08:13,848 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:08:25,362 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:08:25,363 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:08:25,438 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:08:25,510 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:08:52,704 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:10:47,277 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:10:47,277 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:10:47,277 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:10:47,278 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:10:47,278 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:10:47,278 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:10:47,278 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:10:47,359 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:10:47,421 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:11:30,806 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:11:30,806 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 19:11:30,807 - VideoDownloader - INFO - 开始下载: download_1751973090806
+2025-07-08 19:11:30,944 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:11:30,944 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:11:30,944 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 19:11:31,649 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:11:37,738 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:11:38,545 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:11:39,128 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 19:11:39,128 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 19:11:39,128 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video
+2025-07-08 19:12:02,966 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:12:02,966 - VideoDownloader - INFO - 检测到B站链接，使用ffmpeg合并高质量格式
+2025-07-08 19:12:02,967 - VideoDownloader - INFO - 开始下载: download_1751973122966
+2025-07-08 19:12:03,008 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:12:03,009 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:12:03,009 - VideoDownloader - INFO - 使用格式选择器: bestvideo[height<=1080]+bestaudio/bestvideo[height<=720]+bestaudio/best
+2025-07-08 19:12:03,732 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:12:08,555 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:12:09,603 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:12:10,024 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 19:12:10,024 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 19:12:10,025 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 19:12:24,707 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:14:44,463 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:14:44,463 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:14:44,463 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:14:44,463 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:14:44,463 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:14:44,464 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:14:44,464 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:14:44,554 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:14:44,608 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:15:07,424 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:15:07,424 - VideoDownloader - INFO - 检测到B站链接，优先使用H.264编码确保兼容性
+2025-07-08 19:15:07,425 - VideoDownloader - INFO - 开始下载: download_1751973307424
+2025-07-08 19:15:07,554 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:15:07,554 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:15:07,554 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[height<=1080]+bestaudio/best[vcodec^=avc]/best
+2025-07-08 19:15:08,232 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:15:11,407 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:15:12,503 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:15:12,883 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 19:15:12,884 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 19:15:12,884 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 19:15:31,039 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:24:14,588 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:24:14,588 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:24:14,588 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:24:14,588 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:24:14,588 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:24:14,589 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:24:14,589 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:24:14,669 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:24:14,728 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:24:23,133 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:24:23,134 - VideoDownloader - INFO - 检测到B站链接，优先使用H.264编码确保兼容性
+2025-07-08 19:24:23,134 - VideoDownloader - INFO - 开始下载: download_1751973863133
+2025-07-08 19:24:23,418 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:24:23,418 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:24:23,418 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[height<=1080]+bestaudio/best[vcodec^=avc]/best
+2025-07-08 19:24:24,204 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:24:28,953 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:24:29,815 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:24:30,234 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 19:24:30,235 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 19:24:30,235 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 19:24:30,346 - VideoDownloader - INFO - 检测到视频编码格式: av1
+2025-07-08 19:24:30,346 - VideoDownloader - INFO - 检测到AV1格式，开始自动转换为H.264...
+2025-07-08 19:24:30,346 - VideoDownloader - INFO - 开始转换: 【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4 -> 【泰拉瑞亚】工具开荒1.这个世界有金字塔_h264.mp4
+2025-07-08 19:24:58,873 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:25:35,412 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:25:35,412 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:25:35,413 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:25:35,413 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:25:35,413 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:25:35,413 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:25:35,413 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:25:35,496 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:25:35,555 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:25:44,222 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:25:44,222 - VideoDownloader - INFO - 检测到B站链接，优先使用H.264编码确保兼容性
+2025-07-08 19:25:44,223 - VideoDownloader - INFO - 开始下载: download_1751973944222
+2025-07-08 19:25:44,460 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:25:44,460 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:25:44,460 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[height<=1080]+bestaudio/best[vcodec^=avc]/best
+2025-07-08 19:25:45,264 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:26:06,157 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:26:09,837 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:26:10,383 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 19:26:10,383 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 19:26:10,384 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video
+2025-07-08 19:26:10,491 - VideoDownloader - INFO - 检测到视频编码格式: av1
+2025-07-08 19:26:10,492 - VideoDownloader - INFO - 检测到AV1格式，开始自动转换为H.264...
+2025-07-08 19:26:10,492 - VideoDownloader - INFO - 开始转换: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4 -> 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！_h264.mp4
+2025-07-08 19:26:39,714 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:30:57,406 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:30:57,406 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:30:57,406 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:30:57,406 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:30:57,406 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:30:57,407 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:30:57,407 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:30:57,486 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:30:57,544 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:10,449 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:10,450 - VideoDownloader - INFO - B站链接：强制使用H.264编码，拒绝AV1格式
+2025-07-08 19:31:10,450 - VideoDownloader - INFO - 开始下载: download_1751974270450
+2025-07-08 19:31:10,701 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:31:10,701 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:10,702 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio/best[vcodec^=avc][height<=480]/worst[vcodec^=avc]
+2025-07-08 19:31:11,385 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:31:21,217 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:31:25,007 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:31:25,357 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 19:31:25,357 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 19:31:25,357 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 19:31:51,606 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:51,607 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:31:51,691 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:31:51,758 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:59,721 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:59,721 - VideoDownloader - INFO - B站链接：仅接受H.264编码，完全拒绝AV1/VP9等格式
+2025-07-08 19:31:59,722 - VideoDownloader - INFO - 开始下载: download_1751974319721
+2025-07-08 19:31:59,853 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:31:59,854 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:31:59,854 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio[acodec=aac]/best[vcodec^=avc]/worst[vcodec^=avc]
+2025-07-08 19:32:00,613 - VideoDownloader - WARNING - 无法获取格式信息: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:01,138 - VideoDownloader - ERROR - 下载过程中出错: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:01,139 - VideoDownloader - ERROR - 下载失败: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:05,224 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:32:05,225 - VideoDownloader - INFO - B站链接：仅接受H.264编码，完全拒绝AV1/VP9等格式
+2025-07-08 19:32:05,225 - VideoDownloader - INFO - 开始下载: download_1751974325225
+2025-07-08 19:32:05,266 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:32:05,266 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:32:05,266 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio[acodec=aac]/best[vcodec^=avc]/worst[vcodec^=avc]
+2025-07-08 19:32:05,988 - VideoDownloader - WARNING - 无法获取格式信息: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:06,578 - VideoDownloader - ERROR - 下载过程中出错: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:06,579 - VideoDownloader - ERROR - 下载失败: [0;31mERROR:[0m [BiliBili] BV1DR3Cz9EXq: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:25,273 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:32:25,273 - VideoDownloader - INFO - B站链接：仅接受H.264编码，完全拒绝AV1/VP9等格式
+2025-07-08 19:32:25,274 - VideoDownloader - INFO - 开始下载: download_1751974345273
+2025-07-08 19:32:25,313 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:32:25,313 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:32:25,313 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio[acodec=aac]/best[vcodec^=avc]/worst[vcodec^=avc]
+2025-07-08 19:32:25,979 - VideoDownloader - WARNING - 无法获取格式信息: [0;31mERROR:[0m [BiliBili] BV1rF3ez6EAK: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:26,539 - VideoDownloader - ERROR - 下载过程中出错: [0;31mERROR:[0m [BiliBili] BV1rF3ez6EAK: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:26,540 - VideoDownloader - ERROR - 下载失败: [0;31mERROR:[0m [BiliBili] BV1rF3ez6EAK: Requested format is not available. Use --list-formats for a list of available formats
+2025-07-08 19:32:32,151 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:34:46,382 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:34:46,383 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:34:46,465 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:34:46,525 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:34:54,579 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:34:54,580 - VideoDownloader - INFO - B站链接：优先H.264编码，如无则下载其他格式并自动转换
+2025-07-08 19:34:54,581 - VideoDownloader - INFO - 开始下载: download_1751974494580
+2025-07-08 19:34:54,827 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1rF3ez6EAK/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:34:54,828 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:34:54,828 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio/bestvideo[height<=1080]+bestaudio/best
+2025-07-08 19:34:55,486 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:34:58,167 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:34:59,130 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:34:59,478 - VideoDownloader - INFO - 下载完成: 【泰拉瑞亚】工具开荒1.这个世界有金字塔
+2025-07-08 19:34:59,479 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video\【泰拉瑞亚】工具开荒1.这个世界有金字塔.mp4
+2025-07-08 19:34:59,479 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\【泰拉瑞亚】工具开荒1.这个世界有金字塔\video
+2025-07-08 19:34:59,548 - VideoDownloader - INFO - 检测到视频编码格式: h264
+2025-07-08 19:34:59,548 - VideoDownloader - INFO - 视频已是兼容格式(h264)，无需转换
+2025-07-08 19:35:17,194 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:35:17,195 - VideoDownloader - INFO - B站链接：优先H.264编码，如无则下载其他格式并自动转换
+2025-07-08 19:35:17,195 - VideoDownloader - INFO - 开始下载: download_1751974517195
+2025-07-08 19:35:17,236 - VideoDownloader - INFO - 开始下载视频: https://www.bilibili.com/video/BV1DR3Cz9EXq/?share_source=copy_web&vd_source=8680443e329d3339b7d76ade65c744ef
+2025-07-08 19:35:17,237 - VideoDownloader - INFO - 下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:35:17,237 - VideoDownloader - INFO - 使用格式选择器: bestvideo[vcodec^=avc][height<=1080]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc][height<=720]+bestaudio[acodec=aac]/bestvideo[vcodec^=avc]+bestaudio/bestvideo[height<=1080]+bestaudio/best
+2025-07-08 19:35:17,964 - VideoDownloader - INFO - 可用格式示例: id:30216 res:unknownp ext:m4a, id:30232 res:unknownp ext:m4a, id:30280 res:unknownp ext:m4a, id:100046 res:360p ext:mp4, id:30011 res:360p ext:mp4
+2025-07-08 19:35:23,271 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:35:24,160 - VideoDownloader - INFO - 下载完成: 
+2025-07-08 19:35:24,653 - VideoDownloader - INFO - 下载完成: 这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！
+2025-07-08 19:35:24,653 - VideoDownloader - INFO - 文件保存成功: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！.mp4
+2025-07-08 19:35:24,654 - VideoDownloader - INFO - 视频保存在文件夹: C:\Users\EDY\Desktop\111\视频下载\downloads\这就是营销号天天吹的MC 2.0？配方全随机，谁来了都得懵！\video
+2025-07-08 19:35:24,723 - VideoDownloader - INFO - 检测到视频编码格式: h264
+2025-07-08 19:35:24,723 - VideoDownloader - INFO - 视频已是兼容格式(h264)，无需转换
+2025-07-08 19:35:52,199 - VideoDownloader - INFO - 清除了 2 个已完成的下载任务
+2025-07-08 19:35:53,443 - VideoDownloader - INFO - 清除了 0 个已完成的下载任务
+2025-07-08 19:35:53,683 - VideoDownloader - INFO - 清除了 0 个已完成的下载任务
+2025-07-08 19:35:53,906 - VideoDownloader - INFO - 清除了 0 个已完成的下载任务
+2025-07-08 19:36:04,946 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-08 19:39:37,599 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:39:37,600 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:39:37,680 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:39:37,738 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - 视频下载器启动
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - ==================================================
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:43:06,636 - VideoDownloader - INFO - 启动GUI界面
+2025-07-08 19:43:06,718 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-08 19:43:06,778 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-08 19:47:02,796 - VideoDownloader - INFO - 应用程序正常退出

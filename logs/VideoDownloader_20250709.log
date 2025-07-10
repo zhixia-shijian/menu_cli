@@ -1,0 +1,78 @@
+2025-07-09 11:01:20,340 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:01:22,416 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:01:46,894 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:01:46,894 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:01:46,894 - VideoDownloader - INFO - 视频下载器启动
+2025-07-09 11:01:46,894 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:01:46,894 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-09 11:01:46,895 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:01:46,895 - VideoDownloader - INFO - 启动GUI界面
+2025-07-09 11:01:47,246 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:01:47,308 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:01:57,723 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-09 11:05:55,479 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - 视频下载器启动
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:05:55,480 - VideoDownloader - INFO - 启动GUI界面
+2025-07-09 11:05:55,541 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:05:55,604 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:06:40,068 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-09 11:06:42,184 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:06:42,219 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - 视频下载器启动
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-09 11:11:42,957 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:11:42,958 - VideoDownloader - INFO - 启动GUI界面
+2025-07-09 11:11:43,032 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:11:43,103 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:12:04,325 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,325 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,330 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:04,331 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,331 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:04,332 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:04,332 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:04,333 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:04,333 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:05,309 - VideoDownloader - INFO - 用户设置已更新
+2025-07-09 11:12:06,493 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,493 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,494 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:06,494 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:06,494 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,495 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,496 - VideoDownloader - ERROR - 设置配置失败: Invalid section name: 'DEFAULT'
+2025-07-09 11:12:06,496 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:06,497 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:06,497 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:06,498 - VideoDownloader - INFO - 配置文件保存成功
+2025-07-09 11:12:07,484 - VideoDownloader - INFO - 用户设置已更新
+2025-07-09 11:12:10,089 - VideoDownloader - INFO - 应用程序正常退出
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - 配置文件加载成功: config/settings.ini
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - 视频下载器启动
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - ==================================================
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - 依赖项检查通过
+2025-07-09 11:12:22,709 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:12:22,710 - VideoDownloader - INFO - 启动GUI界面
+2025-07-09 11:12:22,776 - VideoDownloader - INFO - 检测到系统ffmpeg，支持高质量视频合并
+2025-07-09 11:12:22,837 - VideoDownloader - INFO - 使用下载目录: C:\Users\EDY\Desktop\111\视频下载\downloads
+2025-07-09 11:12:43,171 - VideoDownloader - WARNING - 无法获取视频信息
