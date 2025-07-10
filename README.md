@@ -1,6 +1,6 @@
 # 🎬 智能视频下载器
 
-一个功能强大的多平台视频下载工具，支持YouTube、Twitter/X、Instagram、TikTok、Bilibili等1700+网站，具备智能格式转换和美观的用户界面。
+一个功能强大的多平台视频下载工具，支持YouTube、Twitter/X、Instagram、TikTok、Bilibili等1700+网站，具备智能格式转换和美观的用户界面。（仅支持bilibili）
 
 ## ✨ 功能特点
 
